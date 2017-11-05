@@ -1,2 +1,9 @@
 # Leon
-named after Léon Theremin
+
+## arduino
+
+Arduino code
+
+## pi
+
+Raspberry Pi code
